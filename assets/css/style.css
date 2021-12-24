@@ -130,13 +130,25 @@
   text-align: center;
 }
 
-.hero-img {
-  width: 100%;
+.hero-cta-btn {
+  margin-right: 4.8rem;
 }
 
 .hero-buttons {
   display: flex;
   justify-content: center;
+}
+
+.hero-video {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.hero-video__content {
+  margin-top: 4.4rem;
+  height: 80%;
+  width: 50%;
 }
 
 /***************************/
